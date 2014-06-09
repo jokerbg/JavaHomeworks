@@ -6,7 +6,7 @@ Homeworks from SoftUni Java course in May 2014
 https://softuni.bg/downloads/svn/java-basics/May-2014/2.%20Java-Syntax-Homework.docx
 https://softuni.bg/downloads/svn/java-basics/May-2014/3.%20Java-Loops-Methods-Classes-Homework.docx
 https://softuni.bg/downloads/svn/java-basics/May-2014/4.%20Java-Collections-Basics-Homework.docx
-
++
 
          eeee    eeeee  eeeeeeeeee  eeeeeeeeee   eeeeeeeeee  
          eeee   eeeee   eeeeeeeeeee eeeeeeeeeee  eeeeeeeeeee             
@@ -35,7 +35,7 @@ https://softuni.bg/downloads/svn/java-basics/May-2014/4.%20Java-Collections-Basi
                   eeeeeeeeee eee   eeee  eeeeeeeee                       
                  eeee    eee eee    eee  eeeeeee                         
 
-
++ 
   eeee        eeeeeeeeee      eeeee     eeeeeeeeee    eeee     eee       
   eeee        eeeeeeeeeee    eeeeee     eeeeeeeeeeee  eeeee    eee       
   eeee        eeee           eee eee    eeee    eeee  eeeeee   eee       
@@ -54,7 +54,7 @@ https://softuni.bg/downloads/svn/java-basics/May-2014/4.%20Java-Collections-Basi
                          eeee      eeee   eeee                           
                          eeee       eeeeeeee                              
 
-
++ 
              eeeeee      eeeeeee    eeeeeeee     eeeeeeeee           
       eee  eeeeeeeeee   eeeeeeeeee  eeeeeeeeee   eeeeeeeee   eee      
  eeeeeee  eeee    eee  eee     eee  eeee   eeee  eee         eeeeeeee 
